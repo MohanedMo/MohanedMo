@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohaned Mohamed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&lines=Welcome+To+My+Profile)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanedmo&label=Profile%20views&color=0e75b6&style=flat" alt="mohanedmo" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**

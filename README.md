@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanedmo&label=Profile%20views&color=0e75b6&style=flat" alt="mohanedmo" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently working with **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://mohanedmo.github.io/Mohaned-Portfolio/](https://mohanedmo.github.io/Mohaned-Portfolio/)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap5 and SASS**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap5, Tailwind, React js, Redux js, Svelte, Git, and SASS**
 
-- 📫 How to reach me **mohaned.mohamed2110@gmail.com**
+- 📫 How to reach me: **mohaned.mohamed2110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

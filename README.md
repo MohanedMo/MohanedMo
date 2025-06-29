@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohaned Mohamed</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Front-End Developer from Egypt</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&lines=Welcome+To+My+Profile)](https://git.io/typing-svg)
 
